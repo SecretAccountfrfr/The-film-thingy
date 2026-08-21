@@ -1,14 +1,15 @@
 
 body {
     background-color: rgb(177, 92, 105);
+
 }
 .container {
     background-color: pink;
     margin: 20px auto;
     padding:1vh 2vh;
-    width:70vh;
-    height: 50vh;
+    width:70vmax;
     border-radius: 2%;
+    height:auto;
 }
 
 header {
