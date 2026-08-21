@@ -1,0 +1,39 @@
+
+body {
+    background-color: rgb(177, 92, 105);
+}
+.container {
+    background-color: pink;
+    margin: 20px auto;
+    padding:1vh 2vh;
+    width:70vh;
+    height: 50vh;
+    border-radius: 2%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.easter_egg {
+    color:pink; /*this should be the same as the background color for .container */
+}
+
+h1 {
+    color:rgb(130, 22, 118);
+}
+
+h2 {
+    color:rgb(66, 15, 114);
+}
+
+.link {
+    color:red;
+}
